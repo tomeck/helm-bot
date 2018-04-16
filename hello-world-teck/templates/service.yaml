@@ -1,0 +1,19 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: {{ template "hello-world-teck.fullname" . }}
+  labels:
+    app: {{ template "hello-world-teck.name" . }}
+    chart: {{ template "hello-world-teck.chart" . }}
+    release: {{ .Release.Name }}
+    heritage: {{ .Release.Service }}
+spec:
+  type: {{ .Values.service.type }}
+  ports:
+    - port: {{ .Values.service.port }}
+      targetPort: http
+      protocol: TCP
+      name: http
+  selector:
+    app: {{ template "hello-world-teck.name" . }}
+    release: {{ .Release.Name }}
