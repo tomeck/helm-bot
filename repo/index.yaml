@@ -3,11 +3,11 @@ entries:
   hello-world-teck:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2018-04-15T21:39:14.611507991-04:00
+    created: 2018-04-15T21:51:42.516441049-04:00
     description: Teck demo helm chart for hello-world web app
     digest: 5ce161712bf5c470059ba743ee75b31b687e4197c8947b827f279a9bf4ce86f0
     name: hello-world-teck
     urls:
     - hello-world-teck-0.1.0.tgz
     version: 0.1.0
-generated: 2018-04-15T21:39:14.609071724-04:00
+generated: 2018-04-15T21:51:42.511797848-04:00
