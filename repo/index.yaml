@@ -3,9 +3,9 @@ entries:
   foo:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2018-04-15T22:50:59.576877031-04:00
+    created: 2018-04-15T23:10:20.656230039-04:00
     description: A Helm chart for Kubernetes
-    digest: 184fa6a065c0a71feae745bacbc631b8c32a4bcba2ec479aaf4bead32e326fbe
+    digest: b3a106ead7682090e0ae7cb5d6d197c246a19ffcc3085e5e4e3174f624352635
     name: foo
     urls:
     - https://raw.githubusercontent.com/tomeck/helm-bot/master/repo/foo-0.1.0.tgz
@@ -13,11 +13,11 @@ entries:
   hello-world-teck:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2018-04-15T22:50:59.577351913-04:00
+    created: 2018-04-15T23:10:20.65676678-04:00
     description: Teck demo helm chart for hello-world web app
-    digest: 7322ae3254319ad3b92f04d76dff16998cbf75f61b68325f29b7ee1aa078d622
+    digest: f08fd8e97f66ea5ffe05ba4ae263ec6a2edc112070bc67415f731d5136b43d1f
     name: hello-world-teck
     urls:
     - https://raw.githubusercontent.com/tomeck/helm-bot/master/repo/hello-world-teck-0.1.0.tgz
     version: 0.1.0
-generated: 2018-04-15T22:50:59.575276033-04:00
+generated: 2018-04-15T23:10:20.654006082-04:00
