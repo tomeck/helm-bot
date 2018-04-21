@@ -3,7 +3,7 @@ entries:
   banksy-foundation:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2018-04-21T11:25:16.949964675-04:00
+    created: 2018-04-21T11:24:42.479671084-04:00
     description: IBM Banksy Foundation
     digest: bdd94021dc212a5d52128f72025a0e62c0e84cc1275534aeeef8e99cce428781
     keywords:
@@ -13,26 +13,26 @@ entries:
     - core
     name: banksy-foundation
     urls:
-    - https://raw.githubusercontent.com/tomeck/helm-bot/master/repo/banksy-foundation-0.1.0.tgz
+    - https://raw.githubusercontent.com/tomeck/helm-bot/master/repo/repo/banksy-foundation-0.1.0.tgz
     version: 0.1.0
   foo:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2018-04-21T11:25:16.950228482-04:00
+    created: 2018-04-21T11:24:42.47992587-04:00
     description: A Helm chart for Kubernetes
     digest: b3a106ead7682090e0ae7cb5d6d197c246a19ffcc3085e5e4e3174f624352635
     name: foo
     urls:
-    - https://raw.githubusercontent.com/tomeck/helm-bot/master/repo/foo-0.1.0.tgz
+    - https://raw.githubusercontent.com/tomeck/helm-bot/master/repo/repo/foo-0.1.0.tgz
     version: 0.1.0
   hello-world-teck:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2018-04-21T11:25:16.9504405-04:00
+    created: 2018-04-21T11:24:42.480176435-04:00
     description: Teck demo helm chart for hello-world web app
     digest: f08fd8e97f66ea5ffe05ba4ae263ec6a2edc112070bc67415f731d5136b43d1f
     name: hello-world-teck
     urls:
-    - https://raw.githubusercontent.com/tomeck/helm-bot/master/repo/hello-world-teck-0.1.0.tgz
+    - https://raw.githubusercontent.com/tomeck/helm-bot/master/repo/repo/hello-world-teck-0.1.0.tgz
     version: 0.1.0
-generated: 2018-04-21T11:25:16.949362994-04:00
+generated: 2018-04-21T11:24:42.479076578-04:00
